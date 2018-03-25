@@ -1,0 +1,22 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Number Guessing Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajvaibhavdubey/Number-Guessing-Game.git"
+  },
+  "author": "Raj Vaibhav Dubey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajvaibhavdubey/Number-Guessing-Game/issues"
+  },
+  "homepage": "https://github.com/rajvaibhavdubey/Number-Guessing-Game#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
